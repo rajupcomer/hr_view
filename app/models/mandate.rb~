@@ -1,0 +1,2 @@
+class Mandate < ActiveRecord::Base
+end
